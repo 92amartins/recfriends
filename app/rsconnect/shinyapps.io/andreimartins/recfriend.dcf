@@ -5,6 +5,6 @@ account: andreimartins
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 218156
-bundleId: 995429
+bundleId: 997097
 url: https://andreimartins.shinyapps.io/recfriend/
-when: 1506311432.47837
+when: 1506380926.03688
