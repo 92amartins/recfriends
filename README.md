@@ -19,6 +19,12 @@ http://46.101.166.39/recfriends/suggested?person=Arthur
 }
 ```
 
+## Logs
+
+For some unknown reason, the API can write logs when tested locally, but fails to do so in the server (possibly is a permission issue).
+
+You can find a very basic logging implementation in [logs](https://github.com/a-n-d-r-e-i/recfriends/tree/logs) branch. There, sample logs are shown inside `api/logs` folder for each service.
+
 ## Built With
 
 * [R](https://www.r-project.org/)
