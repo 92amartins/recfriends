@@ -1,5 +1,6 @@
 library(RNeo4j)
 
+# Load graph database
 graph <- startGraph(url = "http://hobby-leaganfmiielgbkeljhlocpl.dbs.graphenedb.com:24789/db/data/",
                     username = "prod-db",
                     password = "b.H54FGOIsVyQU.Zgnz3cXJm1ezS5Ze")

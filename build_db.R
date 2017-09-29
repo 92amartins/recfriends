@@ -1,5 +1,4 @@
 library(RNeo4j)
-library(jsonlite)
 library(dplyr)
 
 BuildGraph <- function(relationships, type){
