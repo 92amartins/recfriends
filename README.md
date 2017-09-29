@@ -2,6 +2,8 @@
 
 A friends' recommendation service that connects you to interesting people!
 
+![Friends' Graph](graph.png)
+
 ## Endpoints
 * **friends**: Get friends of a person
 ```
@@ -25,11 +27,15 @@ For some unknown reason, the API can write logs when tested locally, but fails t
 
 You can find a very basic logging implementation in [logs](https://github.com/a-n-d-r-e-i/recfriends/tree/logs) branch. There, sample logs are shown inside `api/logs` folder for each service.
 
+## Issues
+
+You can find some enhancements I'd do to improve the API
+
 ## Built With
 
 * [R](https://www.r-project.org/)
 * [Neo4J](https://neo4j.com/) hosted at [GrapheneDB](https://www.graphenedb.com/)
 
-## Authors
+## Author
 
 * **Andrei Martins**
